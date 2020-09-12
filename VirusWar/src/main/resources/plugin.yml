@@ -1,0 +1,4 @@
+name: VirusWar
+version: ${project.version}
+main: jp.hack.minecraft.viruswar.VirusWar
+api-version: 1.16
